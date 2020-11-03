@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896841496545",
+    "firebase_url": "https://bdlandnazipur.firebaseio.com",
+    "project_id": "bdlandnazipur",
+    "storage_bucket": "bdlandnazipur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896841496545:android:37a9822c876183ad4204a0",
+        "android_client_info": {
+          "package_name": "com.realstate.bdland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896841496545-alku42j95e3oeqtes2l4o9i421s0suis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-IKJMmFT_6aexgQSIe2rYw5B-9RVisQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896841496545-alku42j95e3oeqtes2l4o9i421s0suis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

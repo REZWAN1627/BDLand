@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BDLandNazipur</string>
+
+
+    <string name="google_map_api_key">AIzaSyAP88XVbKAQvGk9SeZ6kBkaGEPo4_P-MKI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="RED">#2B67F6</string>
+
+</resources>
